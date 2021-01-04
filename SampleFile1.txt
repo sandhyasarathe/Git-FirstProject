@@ -1,6 +1,3 @@
-Hello , 
-
-
-Hi, Ok 
-
 My New Project in github
+
+Please verify an email address to collaborate on GitHub,
