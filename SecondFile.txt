@@ -4,3 +4,5 @@ Hello ,
 Hi, Ok 
 
 My New Project in github
+
+git diff can be passed Git refs to commits to diff.
